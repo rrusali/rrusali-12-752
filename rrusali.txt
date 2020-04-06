@@ -1,0 +1,6 @@
+mblayloc 100
+minyounh 100
+rrusali 100
+ruisun 90
+tstutts 80
+vinitas 100
